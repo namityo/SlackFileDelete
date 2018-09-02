@@ -1,0 +1,4 @@
+{
+    "excludedExtensions": ["jpg", "jpeg", "gif", "png"],
+    "param": {}
+}

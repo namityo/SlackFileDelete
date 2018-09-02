@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/client": "^4.6.0"
+    "@slack/client": "^4.6.0",
+    "moment": "^2.22.2"
   }
 }
