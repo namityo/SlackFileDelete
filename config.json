@@ -1,4 +1,9 @@
 {
     "excludedExtensions": ["jpg", "jpeg", "gif", "png"],
-    "param": {}
+    "param": {
+        "from": {
+            "value": 3,
+            "type": "hour"
+        }
+    }
 }
